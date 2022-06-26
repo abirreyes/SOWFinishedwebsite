@@ -1,0 +1,23 @@
+body{
+  background-color:beige;}
+
+.titulo{
+  color:#3b7b32 ;
+  font-size: 25px;
+  display: flex;
+  flex-basis: column;
+}
+img{
+min-height: 200px;
+min-width: 200px;
+max-height: 40%;
+max-width: 40%;
+  
+img{height: 300px;
+   width: 350px;}
+  
+.contenido
+display: flex;
+flex-direction: column;
+}
+}
